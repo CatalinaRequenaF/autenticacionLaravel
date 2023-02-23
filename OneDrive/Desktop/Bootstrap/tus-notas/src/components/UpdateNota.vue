@@ -78,7 +78,7 @@ methods: {
     }
 
     fetch(`${baseURL}/${this.$route.params.nota.id}`, options);
-      this.showToast("success", "HECHO!", "Tarefa criada com suceso");
+      this.showToast("success", "HECHO!", "Nota creada satisfactoriamente");
       this.$router.push({ name: "list" });
     },
   },

@@ -1,19 +1,9 @@
 {
   "notas": [
     {
-      "titulo": "Hoy tengo que ",
-      "descripcion": "No tengo que hacer nada",
-      "id": 1
-    },
-    {
-      "titulo": "Editado",
-      "descripcion": "xxx",
-      "id": 2
-    },
-    {
-      "titulo": "Responsive",
-      "descripcion": "xd",
-      "id": 3
+      "titulo": "Lista de la compra",
+      "descripcion": "Chocolate y galletas",
+      "id": 4
     }
   ]
 }
