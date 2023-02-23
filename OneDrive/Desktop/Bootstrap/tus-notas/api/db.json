@@ -1,9 +1,3 @@
 {
-  "notas": [
-    {
-      "titulo": "Lista de la compra",
-      "descripcion": "Chocolate y galletas",
-      "id": 4
-    }
-  ]
+  "notas": []
 }
